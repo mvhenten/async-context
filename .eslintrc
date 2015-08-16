@@ -1,0 +1,20 @@
+{
+    "rules": {
+        "indent": [
+            2,
+            4
+        ],
+        "quotes": [
+            2,
+            "double"
+        ],
+        "semi": [
+            2,
+            "always"
+        ]
+    },
+    "env": {
+        "node": true
+    },
+    "extends": "eslint:recommended"
+}
