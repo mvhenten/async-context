@@ -1,6 +1,8 @@
 # async-context
 Provide a *middleware-like* context to a chain of async functions.
 
+[![Build Status](https://drone.io/github.com/mvhenten/async-context/status.png)](https://drone.io/github.com/mvhenten/async-context/latest)
+
 ## Description
 
 I am a big fan of `async.js` but ever so often I need something that allows
